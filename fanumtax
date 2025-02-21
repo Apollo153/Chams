@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 local RunService = game:GetService("RunService")
 
 local Settings = {
-    ESP_Enabled = true,
+    ESP_Enabled = false,
     ESP_TeamCheck = true,
     Chams = true,
     Chams_Color = Color3.fromRGB(0, 0, 255),
